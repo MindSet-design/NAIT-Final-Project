@@ -14,4 +14,4 @@ this file contains the adruino code that was for the wireless touch pad controll
 this file contains the arduino file for the parallel connection to the raspberry pi and wireless to the drink machine
 
 //motor controller\\
-this file is for the actuall drink machine. It controls the motors, recives signals from the other micros and takes the water temperature which is sent back the the raspberry pi to be displayed in the HMI.
+this file is for the actuall drink machine. It controls the motors, receives signals from the other micros and takes the water temperature which is sent back the the raspberry pi to be displayed in the HMI.
